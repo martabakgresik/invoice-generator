@@ -1,0 +1,5 @@
+{
+  "name": "InvoiceGen",
+  "description": "Aplikasi pembuat faktur (invoice generator) lengkap dengan fitur pajak, diskon, dan QR code kontak klien.",
+  "requestFramePermissions": []
+}
